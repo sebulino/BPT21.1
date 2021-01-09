@@ -7,6 +7,17 @@ Der gesamte Prozess lässt sich in zwei Teile zerlegen:
 * Teil 1: Vorbereitende Satzungsänderungen
 * Teil 2: Die Vorstandswahl
 
+- [Teil 1 - Vorbereitende Satzungsänderungen](https://github.com/sebulino/BPT21.1#teil-1---vorbereitende-satzungs%C3%A4nderungen)
+  * [Satzungsänderungsanträge des BPT201](https://github.com/sebulino/BPT21.1#satzungs%C3%A4nderungsantr%C3%A4ge-des-bpt201)
+  * [Mögliche weitere Satzungsänderungsanträge](https://github.com/sebulino/BPT21.1#m%C3%B6gliche-weitere-satzungs%C3%A4nderungsantr%C3%A4ge)
+  * [Satzungsändurungsanträge zur Konkretisierung der Briefwahl](https://github.com/sebulino/BPT21.1#satzungs%C3%A4ndurungsantr%C3%A4ge-zur-konkretisierung-der-briefwahl)
+  * [Vorstellung der Satzungsänderungsanträge und Diskussion](https://github.com/sebulino/BPT21.1#vorstellung-der-satzungs%C3%A4nderungsantr%C3%A4ge-und-diskussion)
+  * [Erstellen der Wahlunterlagen und Versanddatum](https://github.com/sebulino/BPT21.1#erstellen-der-wahlunterlagen-und-versanddatum)
+  * [Rückversand und Auszählen](https://github.com/sebulino/BPT21.1#r%C3%BCckversand-und-ausz%C3%A4hlen)
+- [Teil 2 - Die Vorstandswahl](https://github.com/sebulino/BPT21.1#teil-2---die-vorstandswahl)
+
+
+
 # Teil 1 - Vorbereitende Satzungsänderungen
 
 ## Satzungsänderungsanträge des BPT201
