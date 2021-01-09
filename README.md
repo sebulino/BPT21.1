@@ -40,9 +40,8 @@ Analog zum Bundesparteitag werden vor der Vorstandswahl Satzungsänderungsanträ
 ## Mögliche weitere Satzungsänderungsanträge
 Es muss entschieden werden, ob der Basis erneut die Möglichkeit gegeben wird, Satzungsändeurungsanträge für die Vorstandswahl zu stellen.
 
-[] ja
-
-[] nein
+- [ ] ja
+- [ ] nein
 
 ### Falls ja:
 * Email an alle Mitglieder mit dem Hinweis bzw der Einladung in den kommenden zwei Wochen Satzungsänderungsanträge an die AKO zu senden.
@@ -91,9 +90,8 @@ Um möglichem Verdacht auf Ungereimtheiten beim Rückerhalt der Wahlunterlagen v
 ### Auszählung
 Wir müssen entscheiden, ob wir mit einem Team aus Mitgliedern die Wahlzettel auszählen, oder dies durch einen unabhängigen Dritten übernehmen lassen.
 
-[] Mitglieder
-
-[] Dritter
+- [ ] Mitglieder
+- [ ] Dritter
 
 ### Falls Mitglieder
 Ein Team von Mitgliedern muss für die Auszählung gefunden werden, Räumlichkeiten müssen organisiert werden. Vermutlich ist eine Ausschreibung notwendig. Hierzu brauchen wir ein konkretes Datum, zu dem ausgezählt wird.
@@ -155,9 +153,8 @@ Um möglichem Verdacht auf Ungereimtheiten beim Rückerhalt der Wahlunterlagen v
 ## Auszählung
 Wir müssen entscheiden, ob wir mit einem Team aus Mitgliedern die Wahlzettel auszählen, oder dies durch einen unabhängigen Dritten übernehmen lassen.
 
-[] Mitglieder
-
-[] Dritter
+- [ ] Mitglieder
+- [ ] Dritter
 
 ### Falls Mitglieder
 Ein Team von Mitgliedern muss für die Auszählung gefunden werden, Räumlichkeiten müssen organisiert werden. Vermutlich ist eine Ausschreibung notwendig. Hierzu brauchen wir ein konkretes Datum, zu dem ausgezählt wird.
