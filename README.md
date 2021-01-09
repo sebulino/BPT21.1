@@ -18,11 +18,11 @@ Der gesamte Prozess lässt sich in zwei Teile zerlegen:
   * [Erstellen der Wahlunterlagen und Versanddatum](https://github.com/sebulino/BPT21.1#erstellen-der-wahlunterlagen-und-versanddatum)
   * [Rückversand und Auszählen](https://github.com/sebulino/BPT21.1#r%C3%BCckversand-und-ausz%C3%A4hlen)
 - [Teil 2 - Die Vorstandswahl](https://github.com/sebulino/BPT21.1#teil-2---die-vorstandswahl)
-  * [Zu besetzende Vorstandspositionen](https://github.com/sebulino/BPT21.1#szu-besetzende-vorstandspositionen)
-  * [Schließen der Kandidatenliste und Kandidaturen](https://github.com/sebulino/BPT21.1#schließen-der-kandidatenliste-und-kandidaturen)
+  * [Zu besetzende Vorstandspositionen](https://github.com/sebulino/BPT21.1#zu-besetzende-vorstandspositionen)
+  * [Schließen der Kandidatenliste und Kandidaturen](https://github.com/sebulino/BPT21.1#schlie%C3%9Fen-der-kandidatenliste-und-kandidaturen)
   * [Wahlunterlagen](https://github.com/sebulino/BPT21.1#wahlunterlagen)
   * [Versand](https://github.com/sebulino/BPT21.1#versand)
-  * [Auszählung](https://github.com/sebulino/BPT21.1#ausz%C3%A4hlung)
+  * [Auszählung](https://github.com/sebulino/BPT21.1#ausz%C3%A4hlung-1)
   * [Ergebnis](https://github.com/sebulino/BPT21.1#ergebnis)
 - [Teil 3 - Offene Fragen](https://github.com/sebulino/BPT21.1#teil-3---offene-fragen)
 
@@ -173,7 +173,7 @@ Nach der Auszählung wird das Ergebnis bekannt gegeben. Hierfür können wir bei
 
 Geschätzter Termin:
 
-# Teil 3 - Offene fragen
+# Teil 3 - Offene Fragen
 * Wollen wir eine Pressebegleitung, wenn ja wie?
 * Was wollen wir alles medial wie begleiten?
 * Wie wäre es mit einer Webseite, auf der der Ablauf und aktuelle Stand vorgehalten wird? Vielleicht auch ein Ticker?
