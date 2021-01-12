@@ -17,7 +17,7 @@ Die Mitglieder der Piratenpartei Deutschland mögen beschließen nachfolgende Re
 
 (4) Zur Auszählung gezählt werden die Wahlunterlagen, die bis zum Einreichungstermin eingegangen sind. Es zählt der Eingang an der Zählstelle.
 
-(5) Die Öffnung der Unterlagen findet öffentlich (digital als auch, soweit möglich, vor Ort) statt, wobei direkt nach der Öffnung eines Umschlags die Wertung durchgeführt wird. Alternativ kein ein geeigneter unabhängiger Dritter bestimmt werden.
+(5) Die Öffnung der Unterlagen findet öffentlich (digital als auch, soweit möglich, vor Ort) statt, wobei direkt nach der Öffnung eines Umschlags die Wertung durchgeführt wird. Alternativ kann ein geeigneter unabhängiger Dritter bestimmt werden.
 
 (6) Nach vollständiger Zählung werden gewählte Personen kontaktiert, mit der Frage ob die Wahl angenommen wird.
 
