@@ -53,7 +53,7 @@ geplantes Versanddatum:
 ## Satzungsänderungsanträge zur Konkretisierung der Briefwahl
 Folgender Satzungsänderungsantrag konkretisiert die Bedingungen der Briefwahl und wird durch Mitglieder des Bundesvorstands gestellt. Hiermit erreichen wir Sicherheit in Bezug auf das Verfahren der folgenden Vorstandwahl.
 
-// Antrag einfügen
+Antrag: "[Urabstimmung als Parteitagsersatz in die Satzung](./Satzungs%C3%A4nderungsantrag_Wahlersatz.md)"
 
 ## Vorstellung der Satzungsänderungsanträge und Diskussion
 
