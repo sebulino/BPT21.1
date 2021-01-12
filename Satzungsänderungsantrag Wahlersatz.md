@@ -25,4 +25,4 @@ Die Mitglieder der Piratenpartei Deutschland mögen beschließen nachfolgende Re
 "
 
 ## Begründung
-Durch SARS-CoV2 wurden die Auflagen so hoch, dass wir aktuell keinen Parteitag verantworten können. Um die Gesundheit unserer Mitglieder nicht zu gefährden ist die Urabstimmung eine sicher Möglichkeit, die Handlungsfähigkeit weiter zu gewährleisten.
+Durch SARS-CoV2 wurden die Auflagen so hoch, dass wir aktuell keinen Parteitag verantworten können. Um die Gesundheit unserer Mitglieder nicht zu gefährden, ist die Urabstimmung eine sichere Möglichkeit, die Handlungsfähigkeit weiter zu gewährleisten.
