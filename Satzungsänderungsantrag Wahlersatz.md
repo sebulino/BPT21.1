@@ -19,9 +19,11 @@ Die Mitglieder der Piratenpartei Deutschland mögen beschließen nachfolgende Re
 
 (5) Die Öffnung der Unterlagen findet öffentlich (digital als auch, soweit möglich, vor Ort) statt, wobei direkt nach der Öffnung eines Umschlags die Wertung durchgeführt wird. Alternativ kann ein geeigneter unabhängiger Dritter bestimmt werden.
 
-(6) Nach vollständiger Zählung werden gewählte Personen kontaktiert, mit der Frage ob die Wahl angenommen wird.
+(6) Soweit per nicht anders vorgesehen, werden bei der Bestimmung von Mehrheiten Enthaltungen nicht als gültige Stimmen angerechnet.
 
-(7) Änderungen an Programm und Satzung treten einen Tag nach vollständiger Zählung in Kraft.
+(7) Nach vollständiger Zählung werden gewählte Personen kontaktiert, mit der Frage ob die Wahl angenommen wird.
+
+(8) Änderungen an Programm und Satzung treten einen Tag nach vollständiger Zählung in Kraft.
 "
 
 ## Begründung
