@@ -1,6 +1,6 @@
 # Planungen zur 1. Vorstandswahl 2021
 
-Für die Wahl des Bundesvorstands wird eine Briefwahl durchgeführt. Das bringt die nötige Rechtssicherheit infolge des [Gesetzes über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie vom 27. März 2020 (BGBl. I S. 569, 570)](https://www.bundesrat.de/SharedDocs/drucksachen/2020/0501-0600/594-20.pdf?__blob=publicationFile&v=2)
+Für die Wahl des Bundesvorstands wird eine Briefwahl durchgeführt. Das bringt die nötige Rechtssicherheit infolge des [Gesetzes über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie](https://www.gesetze-im-internet.de/gesruacovbekg/BJNR057000020.html).
 
 Der gesamte Prozess lässt sich in zwei Teile zerlegen:
 
