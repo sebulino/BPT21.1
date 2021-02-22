@@ -8,14 +8,24 @@ Der Bundesparteitag mit Vorstandswahl findet als hybrider Parteitag statt.
 
 # Inhaltsverzeichnis
 
-- [Teil 1 - Einladung und Vorbereitung](https://github.com/sebulino/BPT21.1#teil-1---vorbereitende-satzungs%C3%A4nderungen)
-- [Teil 2 - Der Online Parteitag](https://github.com/sebulino/BPT21.1#teil-2---die-vorstandswahl)
-  * [Zu besetzende Vorstandspositionen](https://github.com/sebulino/BPT21.1#zu-besetzende-vorstandspositionen)
-  * [Schließen der Kandidatenliste und Kandidaturen](https://github.com/sebulino/BPT21.1#schlie%C3%9Fen-der-kandidatenliste-und-kandidaturen)
+- [Teil 1 - Einladung und Vorbereitung](https://github.com/sebulino/BPT21.1#teil-1---einladung-und-vorbereitung)
+  * [Wikiseite](https://github.com/sebulino/BPT21.1#email-zur-einladung)
+  * [Versammlungsämter](https://github.com/sebulino/BPT21.1#email-zur-einladung)
+  * [Anmeldung zum BPT](https://github.com/sebulino/BPT21.1#anmeldung-zum-bpt)
+  * [Antragskommission](https://github.com/sebulino/BPT21.1#antragskommission)
+  * [Satzungsänderungsanträge](https://github.com/sebulino/BPT21.1#satzungs%C3%A4nderungsantr%C3%A4ge)
+  * [LimeSurveys](https://github.com/sebulino/BPT21.1#limesurveys)
+  * [Kandidatenvorstellung](https://github.com/sebulino/BPT21.1#kandidatenvorstellung)
+  * [Orga der schriftlichen Wahl](https://github.com/sebulino/BPT21.1#orga-der-schriftlichen-wahl)
+  * [Tech-Setup und Test](https://github.com/sebulino/BPT21.1#tech-setup-und-test)
+- [Teil 2 - Der Online Parteitag](https://github.com/sebulino/BPT21.1#teil-2---der-online-parteitag)
+  * [Regie](https://github.com/sebulino/BPT21.1#regie-1)
+  * [Stream und Webseite](https://github.com/sebulino/BPT21.1#stream-und-webseite)
+  * [Openslides und Abstimmungsmodus](https://github.com/sebulino/BPT21.1#regie-1)
+  * [Einspieler](https://github.com/sebulino/BPT21.1#vorstandswahl)
+  * [Satzungsänderungsanträge](https://github.com/sebulino/BPT21.1#satzungs%C3%A4nderungsantr%C3%A4ge-1)
+  * [Vorstandswahl](https://github.com/sebulino/BPT21.1#vorstandswahl)
   * [Wahlunterlagen](https://github.com/sebulino/BPT21.1#wahlunterlagen)
-  * [Versand](https://github.com/sebulino/BPT21.1#versand)
-  * [Auszählung](https://github.com/sebulino/BPT21.1#ausz%C3%A4hlung-1)
-  * [Ergebnis](https://github.com/sebulino/BPT21.1#ergebnis)
 - [Teil 3 - Offene Fragen](https://github.com/sebulino/BPT21.1#teil-3---offene-fragen)
 
 
