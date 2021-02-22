@@ -1,23 +1,15 @@
 # Planungen zur 1. Vorstandswahl 2021
 
-Für die Wahl des Bundesvorstands wird eine Briefwahl durchgeführt. Das bringt die nötige Rechtssicherheit infolge des [Gesetzes über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie](https://www.gesetze-im-internet.de/gesruacovbekg/BJNR057000020.html).
+Der Bundesparteitag mit Vorstandswahl findet als hybrider Parteitag statt.
 
-Der gesamte Prozess lässt sich in zwei Teile zerlegen:
-
-* Teil 1: Vorbereitende Satzungsänderungen
-* Teil 2: Die Vorstandswahl
-* Offene Fragen
+* Teil 1: Einladung und Vorbereitung
+* Teil 2: Der Online Parteitag
+* Teil 3: Offene Fragen
 
 # Inhaltsverzeichnis
 
-- [Teil 1 - Vorbereitende Satzungsänderungen](https://github.com/sebulino/BPT21.1#teil-1---vorbereitende-satzungs%C3%A4nderungen)
-  * [Satzungsänderungsanträge des BPT201](https://github.com/sebulino/BPT21.1#satzungs%C3%A4nderungsantr%C3%A4ge-des-bpt201)
-  * [Mögliche weitere Satzungsänderungsanträge](https://github.com/sebulino/BPT21.1#m%C3%B6gliche-weitere-satzungs%C3%A4nderungsantr%C3%A4ge)
-  * [Satzungsänderungsanträge zur Konkretisierung der Briefwahl](https://github.com/sebulino/BPT21.1#satzungs%C3%A4nderungsantr%C3%A4ge-zur-konkretisierung-der-briefwahl)
-  * [Vorstellung der Satzungsänderungsanträge und Diskussion](https://github.com/sebulino/BPT21.1#vorstellung-der-satzungs%C3%A4nderungsantr%C3%A4ge-und-diskussion)
-  * [Erstellen der Wahlunterlagen und Versanddatum](https://github.com/sebulino/BPT21.1#erstellen-der-wahlunterlagen-und-versanddatum)
-  * [Rückversand und Auszählen](https://github.com/sebulino/BPT21.1#r%C3%BCckversand-und-ausz%C3%A4hlen)
-- [Teil 2 - Die Vorstandswahl](https://github.com/sebulino/BPT21.1#teil-2---die-vorstandswahl)
+- [Teil 1 - Einladung und Vorbereitung](https://github.com/sebulino/BPT21.1#teil-1---vorbereitende-satzungs%C3%A4nderungen)
+- [Teil 2 - Der Online Parteitag](https://github.com/sebulino/BPT21.1#teil-2---die-vorstandswahl)
   * [Zu besetzende Vorstandspositionen](https://github.com/sebulino/BPT21.1#zu-besetzende-vorstandspositionen)
   * [Schließen der Kandidatenliste und Kandidaturen](https://github.com/sebulino/BPT21.1#schlie%C3%9Fen-der-kandidatenliste-und-kandidaturen)
   * [Wahlunterlagen](https://github.com/sebulino/BPT21.1#wahlunterlagen)
@@ -27,46 +19,95 @@ Der gesamte Prozess lässt sich in zwei Teile zerlegen:
 - [Teil 3 - Offene Fragen](https://github.com/sebulino/BPT21.1#teil-3---offene-fragen)
 
 
-# Teil 1 - Vorbereitende Satzungsänderungen
+# Teil 1 - Einladung und Vorbereitung
 
-## Satzungsänderungsanträge des BPT201
-Analog zum Bundesparteitag werden vor der Vorstandswahl Satzungsänderungsanträge behandelt, die Auswirkungen auf die Zusammensetzung des Bundesvorstands haben können. Hierzu müssen die bestehenden Anträge gemeinsam mit der Antragskommission durchgeschaut werden und auf entsprechende Auswirkungen (auf die Vorstandszusammensetzung) analysiert werden. Anschließend muss eine Auswahl getroffen werden, diese möglicherweise in Abstimmung mit den Antragstellern überarbeitet werden, und dann dem Pool für die erste Briefwahl übertragen werden.
+## Wikiseite
 
-* Team BuVo:
-* Team AKO:
-* Termin:
+## Email zur Einladung
 
+### vorläufige Tagesordnung
 
-## Mögliche weitere Satzungsänderungsanträge
+* Rechenschaftsberichte!
+* Entlastung!
+
+### wichtige Hinweise
+bitte um Anmeldung, nur an die angemeldeten Besucher wird ein Login zum Openslides oder Polyas versendet?
+Stimmberechtigung wird zu beginn der Veranstaltung geprüft und richtet sich nach der Stimmberechtigung
+#TODO: beides mit Jusitziariat prüfen
+* Adressprüfung!
+
+## Versammlungsämter
+
+### Versammlungsleitung
+Themen, die für die Versammlungsleitung besondere Aufmerksamkeit erfordern:
+
+- [ ] ...
+
+### Wahlleitung
+
+Themen, die für die Wahlleitung besondere Aufmerksamkeit erfordern:
+
+- [ ] ...
+
+### Regie
+
+Themen, die für die Regie besondere Aufmerksamkeit bei der Übertragung des Parteitags erfordern:
+
+- [ ] ...
+
+## Anmeldung zum BPT
+
+## Antragskommission
+Diskussion und Entscheid von Kriterien, welche Satzungsänderungsanträge zwingend vor der Vorstandswahl abgestimmt werden müssen.
+
+## Satzungsänderungsanträge
+
+### Mögliche weitere Satzungsänderungsanträge
 Es muss entschieden werden, ob der Basis erneut die Möglichkeit gegeben wird, Satzungsändeurungsanträge für die Vorstandswahl zu stellen.
 
 - [ ] ja
 - [ ] nein
 
-### Falls ja:
-* Email an alle Mitglieder mit dem Hinweis bzw der Einladung in den kommenden zwei Wochen Satzungsänderungsanträge an die AKO zu senden.
-* Verfahren mit den Emails wie unter "Satzungsänderungsanträge des BPT201"
+### Satzungsänderungsanträge zum BEO?
+Folgende Satzungsäundersanträge brauchen wir zum BEO
+#TODO: Antrag finden oder formulieren.
 
-geplantes Versanddatum:
+### Vorstellung der Satzungsänderungsanträge und Diskussion
 
+An die Mitglieder wird eine Email gesandt mit dem Hinweis auf das folgende Verfahren zur Vorstandswahl und der Diskussion der Satzungsänderungsanträge.
+Ebenso muss drinstehen, ab wann und wo das Ergebnis bekannt gegeben wird. Mit Veröffentlichung des Ergebnisses an dieser Stelle ist auch klar, welche Vorstandspositionen zu besetzen sind. Auch sollte drinstehen, dass die Kandidatenliste offiziell geöffnet wird und planmäßig zum Beginn der jeweiligen Wahl geschlossen wird. Wer Interesse an einer Kandidatur hat, kann hier nun für sich abgleichen, welche Positionen zu einem passen, wofür man kandidieren möchte und hat ausreichend Zeit, eine Kandidatur bekannt zu geben.
 
-## Satzungsänderungsanträge zur Konkretisierung der Briefwahl
-Folgender Satzungsänderungsantrag konkretisiert die Bedingungen der Briefwahl und wird durch Mitglieder des Bundesvorstands gestellt. Hiermit erreichen wir Sicherheit in Bezug auf das Verfahren der folgenden Vorstandwahl.
+## LimeSurveys
+Wollen wir zu einzelnen Fragen LimeSurveys vorab machen?
 
-Antrag: "[Urabstimmung als Parteitagsersatz in die Satzung](Satzungsänderungsantrag%20Wahlersatz.md)"
+- [ ] ja
+- [ ] nein
 
-## Vorstellung der Satzungsänderungsanträge und Diskussion
+## Kandidatenvorstellung
+Grillen? Filme?
 
-An die Mitglieder wird eine Email gesandt mit dem Hinweis auf das folgende Verfahren zur Vorstandswahl (gegebenenfalls die gleiche Email wie der Hinweis auf die Möglichkeit zu weiteren Satzungsänderungsanträgen) und zwei Terminen, zu dem die Satzungsänderungsanträge präsentiert und diskutiert werden, und wo einem der Antragsteller Fragen zu seinem Antrag gestellt werden können.
-Ebenso muss drinstehen, ab wann und wo das Ergebnis bekannt gegeben wird. Mit Veröffentlichung des Ergebnisses an dieser Stelle ist auch klar, welche Vorstandspositionen zu besetzen sind. Auch sollte drinstehen, dass die Kandidatenliste offiziell geöffnet wird und eine Woche (?) nach Auszählungsergebnis schließt. Wer Interesse an einer Kandidatur hat, kann hier nun für sich abgleichen, welche Positionen zu einem passen, wofür man kandidieren möchte und hat ausreichend Zeit, eine Kandidatur bekannt zu geben.
+## Orga der schriftlichen Wahl
 
-### Zur Diskussion der Anträge
-Die Antragsteller erhalten (nach Rücksprache) zwei Termine, zu denen sie sich den Mitgliedern anbieten können, um ihre Fragen zu stellen und idealerweise beantwortet zu bekommen.
+### Versender
+Wer erstellt die unterlagen und versendet?
+#TODO: Gabriele bitten, ein Angebot einzuholen
 
-* Termin 1:
-* Termin 2:
+### Rückversand und Auszählung
 
-## Erstellen der Wahlunterlagen und Versanddatum
+#### Option 1
+Die Wahlunterlagen werden an die Bundesgeschäftsstelle zurück geschickt und dort bis zur Auszählung verwahrt.
+Wir müssen entscheiden, ob wir mit einem Team aus Mitgliedern die Wahlzettel auszählen, oder dies durch einen unabhängigen Dritten übernehmen lassen.
+
+- [ ] Mitglieder
+- [ ] Dritte
+
+#### Option 2
+Um möglichem Verdacht auf Ungereimtheiten beim Rückerhalt der Wahlunterlagen vorzubeugen, werden die Umschläge an einen Notar zurück geschickt.
+
+- [ ] LGS? Wenn ja, wer zählt aus?
+- [ ] Notar? Wenn ja, welcher?
+
+### Erstellen der Wahlunterlagen und Versanddatum
 * Die Wahlunterlagen und Anträge müssen grafisch aufbereitet werden, damit sie für die Mitglieder klar und verständlich sind und eine faire Wahl stattfinden kann
 * Für die Wahl schicken wir
   ** in einem an das Mitglied adressierten Umschlag mit
@@ -84,58 +125,84 @@ Team:
 * Angebot einholen für Versand:
 * Koordination Versand:
 
-## Rückversand und Auszählen
-Um möglichem Verdacht auf Ungereimtheiten beim Rückerhalt der Wahlunterlagen vorzubeugen, werden die Umschläge an einen Notar zurückversand.
 
-### Auszählung
-Wir müssen entscheiden, ob wir mit einem Team aus Mitgliedern die Wahlzettel auszählen, oder dies durch einen unabhängigen Dritten übernehmen lassen.
-
-- [ ] Mitglieder
-- [ ] Dritter
-
-### Falls Mitglieder
+### Falls Auszählung durch Mitglieder
 Ein Team von Mitgliedern muss für die Auszählung gefunden werden, Räumlichkeiten müssen organisiert werden. Vermutlich ist eine Ausschreibung notwendig. Hierzu brauchen wir ein konkretes Datum, zu dem ausgezählt wird.
 
-### Falls Dritter
+### Falls Auszählung durch Dritten
 Ein Angebot muss eingeholt werden.
 
 * Team Auszählorga:
 
-
-Nach dem Auszähltermin sind die konkreten Bedingungen für die Vorstandswahl bekannt.
+Nach dem Auszähltermin sind die Ergebnisse der Satzungsänderungsänträge und der Vorstand bekannt.
 
 Geschätzter Termin:
 
 
-# Teil 2 - Die Vorstandswahl
 
-Die Wahl des Bundesvorstands soll so vergleichbar wie möglich mit den Vorstandswahlen auf einem regulären Bundesparteitag sein, gleichzeitig sollen so wenig wie möglich Briefwahlen stattfinden. Idealerweise lediglich eine.
+## Tech-Setup und Test
 
-Eine Email wird an die Mitglieder versandt, um den Start der Vorstandswahlen mit anstehender Briefwahl anzukündigen und das Verfahren vorzustellen. Ebenso wird darauf hingewiesen, dass die Briefwahlunterlagen nur an die stimmberechtigten Mitglieder versandt wird (wenn das der Fall ist). Ein Stichtag zum Leisten des Mitgliedsbeitrags sollte genannt werden.
 
-Am Beginn der Vorstandswahlen steht das Eröffnen der Kandidatenliste. Diese kann bereits mit dem Beginn der Satzungsänderungsantrags-Briefwahl geöffnet werden, um den Piraten ausreichend Gelegenheit zu geben, sich mit den Rollen und einer Kandidatur auseinanderzusetzen.
+
+# Teil 2 - Der Online Parteitag
+
+Die Wahl des Bundesvorstands soll so vergleichbar wie möglich mit den Vorstandswahlen auf einem regulären Bundesparteitag sein. Aufgrund der Onlinewahl folgt auf die Online-Abstimmung ein schriftlicher Wahlgang.
+
+Nach der Einladung aller registrierten Mitglieder zum Bundesparteitag per Email mit der Bitte einer Anmeldung bis zum Datum [$Datum] registrieren sich die Mitglieder auf der Seite [$Seite]
+
+#TODO: Datum festlegen und Seite erstellen
+
+Auf die Onlineabstimmung des Bundesvorstands folgend wird das schriftliche Verfahren ausgelöst. Hierzu  wird ein Brief an die Mitglieder versandt. Ebenso wird darauf hingewiesen, dass die Briefwahlunterlagen nur an die akkreditierten Mitglieder versandt wird (wenn das der Fall ist). Ein Stichtag zum Leisten des Mitgliedsbeitrags und der Akkreditierung sollte genannt werden.
 
 * Team Email:
 
-## Zu besetzende Vorstandspositionen
-Nach der Auszählung der Briefwahl zu den Satzungsänderungsanträgen besteht Klarheit über die zu besetzenden Vorstandspositionen. Wie in der anfänglichen Email bekannt gegeben wurde, ist die Kandidatenliste noch eine Woche weiter geöffnet.
-Kandidaten, die sich aufstellen lassen möchten, müssen deutlich signalisieren, auf welche Positionen kandideren, und in wiefern eine Vorstandsschaft mit anderen Kandidaten ausgeschlossen ist.
+Der Bundesparteitag wird nach den Abstimmungen des Bundesvorstands vertagt.
+Am folgenden Wochenende wird der Parteitag wieder aufgenommen, um über Wahlprogrammanträge abzustimmen. Anschließend wird anschließend wieder vertagt.
+Am [$Datum] wird der Parteitag wieder aufgenommen, um das Ergebnis der schriftlichen Abstimmung der Vorstandswahl zu verkünden.
+Anschließend wird der Bundesparteitag nach weiteren Reden beendet.
+#TODO: Datum festlegen.
 
-## Schließen der Kandidatenliste und Kandidaturen
-Eine Woche nach Bekanntgabe der Ergebnisse der ersten Briefwahl wird die Kandidatenliste geschlossen.
 
-Jeder Kandidaten bekommt die Möglichkeit sich schriftlich vorzustellen, in Ton und/oder in Bild. Auf einer Seite auf dem Vorstandsportal werden die Beiträge der Kandidaten präsentiert.
+## Akkreditierung
 
-### Kandidatenvorstellung
-Es werden mir den Kandidaten zwei Termine für Vorstellungen vereinbart,an denen ein Kandidatengrillen im Mumble oder anderem Medium angeboten werden. Ebenso haben die Mitglieder die möglichkeit, Fragen per Email einzureichen, die Kandidaten auf der entsprechenden Seite im Vorstandsportal beantworten können.
+## Regie
+Bild- und Ton-Regie, Einspieler
 
-(eigene Webseite dafür?)
+
+## Stream und Webseite
+## Openslides und Abstimmungsmodus
+Der Bundesparteitag wird mit OpenSlides organisiert
+Für die Abstimmungen gibt es drei Varianten.
+1. Live-Abstimmungen mit Polyas
+2. Live-Abstimmungen mit OpenSlides
+3. Live-Abstimmungen über einen Drittanbieter, ggf gesamter Betrieb von OpenSlides
+
+### Live-Abstimmungen mit Polyas
+### Live-Abstimmungen mit OpenSlides
+### Live-Abstimmungen über einen Drittanbieter, ggf gesamter Betrieb von OpenSlides
+
+
+
+
+## Einspieler
+
+## Satzungsänderungsanträge
+## Vorstandswahl
+Mit Beginn der Online-Abstimmung wird die Kandidatenliste geschlossen.
+Jeder Kandidaten bekommt die Möglichkeit sich vorzustellen, in Ton und/oder in Bild.
+### Vorstellung
+### Wahlgang
+
+
+
 
 ## Wahlunterlagen
 
-Zeitgleich zu den Kandidatenvorstellungen können die Wahlunterlagen erstellt werden. Hier klärt sich, wieviele Wahlgänge notwendig sein werden. Im folgenden wird davon ausgegangen, dass nur ein Wahlgang notwendig sein wird.
+Mit Beginn der Wahlgänge stehen die Kandidaten für die jeweiligen Vorstandspositionen fest. Der Wahlzettel enthält für jede Position alle Kandidaten.
+#TODO: Klären, denn dann müssen wir wieder die Abhängigkeiten auf dem Wahlzettel darstellen
+Auf dem Wahlzettel ist das Ergebnis der Online-Abstimmung vermerkt.
 
-* Die stimmberechtigten Mitglieder erhalten
+* Die akkreditierten Mitglieder erhalten
   ** in einem an das Mitglied adressierten Umschlag mit
   ** einem Anschreiben mit Ausfüllhinweisen
   ** ein Formular mit dem Wahlzettel oder den Wahlzetteln (zu klären)
@@ -144,33 +211,9 @@ Zeitgleich zu den Kandidatenvorstellungen können die Wahlunterlagen erstellt we
 
 * Team Wahlunterlagen:
 
-## Versand
-Um möglichem Verdacht auf Ungereimtheiten beim Rückerhalt der Wahlunterlagen vorzubeugen, werden die Umschläge an einen Notar zurückversand.
 
-* Angebot einholen für Versand:
-* Koordination Versand:
-
-## Auszählung
-Wir müssen entscheiden, ob wir mit einem Team aus Mitgliedern die Wahlzettel auszählen, oder dies durch einen unabhängigen Dritten übernehmen lassen.
-
-- [ ] Mitglieder
-- [ ] Dritter
-
-### Falls Mitglieder
-Ein Team von Mitgliedern muss für die Auszählung gefunden werden, Räumlichkeiten müssen organisiert werden. Vermutlich ist eine Ausschreibung notwendig. Hierzu brauchen wir ein konkretes Datum, zu dem ausgezählt wird.
-
-### Falls Dritter
-Ein Angebot muss eingeholt werden.
-
-* Team Auszählorga:
-
-## Ergebnis
-Nach der Auszählung wird das Ergebnis bekannt gegeben. Hierfür können wir beispielsweise einen Abend auf einem Jitsi-Server organisieren, an dem wir einen feierlichen Rahmen schaffen.
-
-
-Geschätzter Termin:
 
 # Teil 3 - Offene Fragen
 * Wollen wir eine Pressebegleitung, wenn ja wie?
-* Was wollen wir alles medial wie begleiten?
+* Was wollen wir alles medial wie begleiten? Wie gehen wir mit Einspielern um?
 * Wie wäre es mit einer Webseite, auf der der Ablauf und aktuelle Stand vorgehalten wird? Vielleicht auch ein Ticker?
