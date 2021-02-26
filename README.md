@@ -109,7 +109,7 @@ Themen, die für die Protokollierenden besondere Aufmerksamkeit bei der Übertra
   * zusätzliches Feld: Die benannte Adresse stimmt mit meiner aktuellen Adresse überein oder ich habe meine Neue Adresse bereits der Mitgliederverwaltung mitgeteilt.
 
 ## Geschäfts- und Wahlordnung
-  * (Geschäftsordnung)[Geschaeftsordnung_Online-Parteitag.md]
+  * [Geschäftsordnung](Geschaeftsordnung_Online-Parteitag.md)
   * Wahlordnung
 
 ## Antragskommission

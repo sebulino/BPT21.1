@@ -1,3 +1,6 @@
+Geschäftsordnung (in Bearbeitung)
+---
+
 ## 1. Teilnahme und Akkreditierung
 
 (1) Stimmberechtigte Mitglieder der Versammlung im Sinne dieser Geschäftsordnung sind alle akkreditierten Parteimitglieder.
