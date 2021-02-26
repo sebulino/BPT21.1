@@ -68,7 +68,9 @@ Der Bundesparteitag mit Vorstandswahl findet als hybrider Parteitag statt.
 
 ### wichtige Hinweise
 bitte um Anmeldung, nur an die angemeldeten Besucher wird ein Login zum Openslides oder Polyas versendet?
-Stimmberechtigung wird zu beginn der Veranstaltung geprüft und richtet sich nach der Stimmberechtigung
+
+Stimmberechtigung wird zu Beginn der Veranstaltung geprüft und richtet sich nach der Stimmberechtigung
+
 #TODO: beides mit Jusitziariat prüfen
 * Adressprüfung in Mail!
 
@@ -117,7 +119,7 @@ Es muss entschieden werden, ob der Basis erneut die Möglichkeit gegeben wird, S
 - [ ] nein
 
 ### Satzungsänderungsanträge zum BEO?
-Folgende Satzungsäundersanträge brauchen wir zum BEO
+Folgende Satzungsändersanträge brauchen wir zum BEO
 #TODO: Antrag finden oder formulieren.
 
 ### Vorstellung der Satzungsänderungsanträge und Diskussion
@@ -137,8 +139,9 @@ Grillen? Filme?
 ## Orga der schriftlichen Wahl
 
 ### Versender
-Wer erstellt die unterlagen und versendet?
-#TODO: Gabriele bitten, ein Angebot einzuholen
+Wer erstellt die Unterlagen und versendet?
+
+#TODO: Gabriele bitten, Angebote einzuholen
 
 ### Rückversand und Auszählung
 
@@ -158,10 +161,10 @@ Um möglichem Verdacht auf Ungereimtheiten beim Rückerhalt der Wahlunterlagen v
 ### Erstellen der Wahlunterlagen und Versanddatum
 * Die Wahlunterlagen und Anträge müssen grafisch aufbereitet werden, damit sie für die Mitglieder klar und verständlich sind und eine faire Wahl stattfinden kann
 * Für die Wahl schicken wir
-  ** in einem an das Mitglied adressierten Umschlag mit
-  ** einem Anschreiben mit Ausfüllhinweisen
-  ** ein Formular mit dem Wahlzettel (wo er für die jeweiligen Anträge "ja" und "nein" ankreuzen kann)
-  ** einen Rückumschlag zum Versand an einen Notar
+  * in einem an das Mitglied adressierten Umschlag mit
+  * einem Anschreiben mit Ausfüllhinweisen
+  * ein Formular mit dem Wahlzettel (wo er für die jeweiligen Anträge "ja" und "nein" ankreuzen kann)
+  * einen Rückumschlag zum Versand an einen Notar
 * Das Anschreiben muss einen Hinweis enthalten, ab wann und wo das Ergebnis bekannt gegeben wird. Mit Veröffentlichung des Ergebnisses an dieser Stelle ist auch klar, welche Vorstandspositionen zu besetzen sind. Wer Interesse an einer Kandidatur hat, kann hier nun für sich abgleichen, welche Positionen zu einem passen und wofür man kandidieren möchte.
 
 
