@@ -5,6 +5,7 @@ Der Bundesparteitag mit Vorstandswahl findet als hybrider Parteitag statt.
 * Teil 1: Einladung und Vorbereitung
 * Teil 2: Der Online Parteitag
 * Teil 3: Offene Fragen
+* Teil 4: Timeline
 
 # Inhaltsverzeichnis
 
@@ -160,19 +161,18 @@ Um möglichem Verdacht auf Ungereimtheiten beim Rückerhalt der Wahlunterlagen v
 
 ### Erstellen der Wahlunterlagen und Versanddatum
 * Die Wahlunterlagen und Anträge müssen grafisch aufbereitet werden, damit sie für die Mitglieder klar und verständlich sind und eine faire Wahl stattfinden kann
-* Für die Wahl schicken wir
+* Für die Wahl schicken wir an die akkreditierten Mitglieder
   * in einem an das Mitglied adressierten Umschlag mit
   * einem Anschreiben mit Ausfüllhinweisen
-  * ein Formular mit dem Wahlzettel (wo er für die jeweiligen Anträge "ja" und "nein" ankreuzen kann)
-  * einen Rückumschlag zum Versand an einen Notar
-* Das Anschreiben muss einen Hinweis enthalten, ab wann und wo das Ergebnis bekannt gegeben wird. Mit Veröffentlichung des Ergebnisses an dieser Stelle ist auch klar, welche Vorstandspositionen zu besetzen sind. Wer Interesse an einer Kandidatur hat, kann hier nun für sich abgleichen, welche Positionen zu einem passen und wofür man kandidieren möchte.
-
+  * ein Formular mit dem Wahlzettel (wo er für die jeweiligen Abstimmungen "ja" und "nein" ankreuzen kann) oder den Wahlzetteln
+  * einen Rückumschlag zum Versand an einen Notar oder die BGS
+* Das Anschreiben muss einen Hinweis enthalten, ab wann und wo das Ergebnis bekannt gegeben wird. Mit Veröffentlichung des Ergebnisses an dieser Stelle ist auch klar, welche Vorstandspositionen wie besetzt werden.
+* Auf dem Wahlzettel ist das Ergebnis der Online-Abstimmung vermerkt.
 
 * Ein Angebot muss eingeholt werden, für den Versand dieser Briefe.
 
-Team:
-
-* grafische Aufbereitung:
+* Team Wahlunterlagen:
+* Team grafische Aufbereitung:
 * Angebot einholen für Versand:
 * Koordination Versand:
 
@@ -187,12 +187,12 @@ Ein Angebot muss eingeholt werden.
 
 Nach dem Auszähltermin sind die Ergebnisse der Satzungsänderungsänträge und der Vorstand bekannt.
 
-Geschätzter Termin:
+Geschätzter Termin: Siehe Timeline unten.
 
 
 
 ## Tech-Setup und Test
-
+...
 
 
 # Teil 2 - Der Online Parteitag
@@ -215,12 +215,15 @@ Anschließend wird der Bundesparteitag nach weiteren Reden beendet.
 
 
 ## Akkreditierung
+...
 
 ## Regie
 Bild- und Ton-Regie, Einspieler
 
 
 ## Stream und Webseite
+...
+
 ## Openslides und Abstimmungsmodus
 Der Bundesparteitag wird mit OpenSlides organisiert
 Für die Abstimmungen gibt es drei Varianten.
@@ -229,13 +232,21 @@ Für die Abstimmungen gibt es drei Varianten.
 3. Live-Abstimmungen über einen Drittanbieter, ggf gesamter Betrieb von OpenSlides
 
 ### Live-Abstimmungen mit Polyas
+POLYAS wird beauftragt, während des Online-Parteitags Live-Abstimmungsfunktionalität zur Verfügung zu stellen.
+
+Kosten: etwa 20.000 EUR wenn an einem Tag.
+
 ### Live-Abstimmungen mit OpenSlides
+
+Eigener Betrieb, 1.000 EUR für Server (geschätzt)
+
 ### Live-Abstimmungen über einen Drittanbieter, ggf gesamter Betrieb von OpenSlides
 
-
+(in Klärung. Aber auf jeden Fall machbar)
 
 
 ## Einspieler
+Ein Online-Parteitag ist vergleichbar mit der Inszenierung eines Films. Entsprechend können die Pausen mit Werbematerial, Partei-Filmen oder auch Vorträgen gefüllt werden, oder auch die einzelnen Programmpunkte daraus bestehen.
 
 ## Satzungsänderungsanträge
 ## Vorstandswahl
@@ -244,38 +255,30 @@ Jeder Kandidaten bekommt die Möglichkeit sich vorzustellen, in Ton und/oder in 
 ### Vorstellung
 ### Wahlgang
 
-
-
-
 ## Wahlunterlagen
 
 Mit Beginn der Wahlgänge stehen die Kandidaten für die jeweiligen Vorstandspositionen fest. Der Wahlzettel enthält für jede Position alle Kandidaten.
+Hinweis auf Eingang der Unterlagen an der Sammelstelle bis zum 25. April
+
 #TODO: Klären, denn dann müssen wir wieder die Abhängigkeiten auf dem Wahlzettel darstellen
-Auf dem Wahlzettel ist das Ergebnis der Online-Abstimmung vermerkt.
 
-* Die akkreditierten Mitglieder erhalten
-  ** in einem an das Mitglied adressierten Umschlag mit
-  ** einem Anschreiben mit Ausfüllhinweisen
-  ** ein Formular mit dem Wahlzettel oder den Wahlzetteln (zu klären)
-  ** einen Rückumschlag zum Versand an einen Notar
-  ** einen weiteren Umschlag ohne Hinweis auf das Mitglied, in dem die Wahlzettel enthalten sind.
-
-* Team Wahlunterlagen:
+weiteres [siehe oben](https://github.com/sebulino/BPT21.1#erstellen-der-wahlunterlagen-und-versanddatum)
 
 
 
 # Teil 3 - Offene Fragen
 * Wollen wir eine Pressebegleitung, wenn ja wie?
 * Was wollen wir alles medial wie begleiten? Wie gehen wir mit Einspielern um?
-* Wie wäre es mit einer Webseite, auf der der Ablauf und aktuelle Stand vorgehalten wird? Vielleicht auch ein Ticker?
+* Wie wäre es mit einer Webseite, auf der der Ablauf und aktuelle Stand vorgehalten wird? Vielleicht auch einen Ticker?
 * Wird eine traditionelle Wahlleitung benötigt?
 
 
 # Teil 4 - Timeline
 * Vorstandsbeschluss des BPT am 4. März
-* Eröffnung des BPT am 1. Mai
-* Vorbereitung und Versand der Stimmzettel 3.-5. Mai
-* angekommen bei Mitgliedern am Freitag, den 7. Mai.
-* Rückversand bis 15. Mai
-* Eintreffen in Zählstelle und Zählung bis 21. Mai
+* **Versand der Einladungen bis zum 12. März**
+* Eröffnung des BPT am 7. Mai
+* Vorbereitung und Versand der Stimmzettel 10.-12. Mai
+* angekommen bei Mitgliedern am Freitag, den 14. Mai.
+* Rückversand bis 22. Mai
+* Eintreffen in Zählstelle und Zählung bis 28. Mai
 * Verkündung 29. Mai
