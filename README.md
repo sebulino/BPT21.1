@@ -31,7 +31,7 @@ Der Bundesparteitag mit Vorstandswahl findet als hybrider Parteitag statt.
   * [Vorstandswahl](https://github.com/sebulino/BPT21.1#vorstandswahl)
   * [Wahlunterlagen](https://github.com/sebulino/BPT21.1#wahlunterlagen)
 - [Teil 3 - Offene Fragen](https://github.com/sebulino/BPT21.1#teil-3---offene-fragen)
-- [Teil 4 - Timeline](https://github.com/sebulino/BPT21.1#teil-3---timeline)
+- [Teil 4 - Timeline](https://github.com/sebulino/BPT21.1#teil-4---timeline)
 
 
 # Teil 1 - Einladung und Vorbereitung
