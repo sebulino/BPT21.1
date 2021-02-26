@@ -27,24 +27,50 @@ Der Bundesparteitag mit Vorstandswahl findet als hybrider Parteitag statt.
   * [Vorstandswahl](https://github.com/sebulino/BPT21.1#vorstandswahl)
   * [Wahlunterlagen](https://github.com/sebulino/BPT21.1#wahlunterlagen)
 - [Teil 3 - Offene Fragen](https://github.com/sebulino/BPT21.1#teil-3---offene-fragen)
+- [Teil 4 - Timeline](https://github.com/sebulino/BPT21.1#teil-3---timeline)
 
 
 # Teil 1 - Einladung und Vorbereitung
 
 ## Wikiseite
 
+### Inhalt
+
+  * Termin
+  * Tagesordnung
+  * technische Teilnahmevoraussetzungen
+  * Abriss Wahlverfahren (grob)
+
 ## Email zur Einladung
 
 ### vorläufige Tagesordnung
 
-* Rechenschaftsberichte!
-* Entlastung!
+  * TOP 01: Begrüßung
+  * TOP 02: Vorstellung des Podiums (Moderator, Protokollierende)
+  * TOP 03: Abstimmung über die Geschäftsordnung
+  * TOP 04: Abstimmung über die Tagesordnung
+  * TOP 05: Bericht der Vorstände
+  * TOP 06: Bericht der Kassenprüfer
+  * TOP 07: Frage, ob die Entlastung Teil der Briefwahl sein soll, oder direkt abgestimmt wird, entsprechend Abstimmung zur Entlastung oder nicht
+  * TOP 08: Vorstellung der Kandidaten
+  * TOP 08.1: Vorstellung der Kandidaten zum/r 1. Vorsitzenden
+  * TOP 08.2: Vorstellung der Kandidaten zum/r stellv. Vorsitzenden
+  * TOP 08.3: Vorstellung der Kandidaten zum/r politischen Geschäftsführer/in
+  * TOP 08.4: Vorstellung der Kandidaten zum/r stellv. politischen Geschäftsführer/in
+  * TOP 08.5: Vorstellung der Kandidaten zum/r Schatzmeister/in
+  * TOP 08.6: Vorstellung der Kandidaten zum/r stellv. Schatzmeister/in
+  * TOP 08.7: Vorstellung der Kandidaten zum/r Generalsekretär/in
+  * TOP 08.8: Vorstellung der Kandidaten zum/r stellv. Generalsekretär/in
+  * TOP 09: Eröffnung der Wahl
+  * TOP 10: Satzungsänderungsanträge oder Programmanträge
+  * TOP 11: Vertagung der Veranstaltung
+
 
 ### wichtige Hinweise
 bitte um Anmeldung, nur an die angemeldeten Besucher wird ein Login zum Openslides oder Polyas versendet?
 Stimmberechtigung wird zu beginn der Veranstaltung geprüft und richtet sich nach der Stimmberechtigung
 #TODO: beides mit Jusitziariat prüfen
-* Adressprüfung!
+* Adressprüfung in Mail!
 
 ## Versammlungsämter
 
@@ -65,7 +91,19 @@ Themen, die für die Regie besondere Aufmerksamkeit bei der Übertragung des Par
 
 - [ ] ...
 
+### Protokollierende
+
+Themen, die für die Protokollierenden besondere Aufmerksamkeit bei der Übertragung des Parteitags erfordern:
+
+- [ ] ...
+
+
 ## Anmeldung zum BPT
+  * Formular wie bei BPT 2020.1 zur Teilnahme (ausgefallen, Corona)
+  * zusätzliches Feld: Die benannte Adresse stimmt mit meiner aktuellen Adresse überein oder ich habe meine Neue Adresse bereits der Mitgliederverwaltung mitgeteilt.
+
+## Geschäfts- und Wahlordnung
+  *
 
 ## Antragskommission
 Diskussion und Entscheid von Kriterien, welche Satzungsänderungsanträge zwingend vor der Vorstandswahl abgestimmt werden müssen.
@@ -227,3 +265,14 @@ Auf dem Wahlzettel ist das Ergebnis der Online-Abstimmung vermerkt.
 * Wollen wir eine Pressebegleitung, wenn ja wie?
 * Was wollen wir alles medial wie begleiten? Wie gehen wir mit Einspielern um?
 * Wie wäre es mit einer Webseite, auf der der Ablauf und aktuelle Stand vorgehalten wird? Vielleicht auch ein Ticker?
+* Wird eine traditionelle Wahlleitung benötigt?
+
+
+# Teil 4 - Timeline
+* Vorstandsbeschluss des BPT am 4. März
+* Eröffnung des BPT am 1. Mai
+* Vorbereitung und Versand der Stimmzettel 3.-5. Mai
+* angekommen bei Mitgliedern am Freitag, den 7. Mai.
+* Rückversand bis 15. Mai
+* Eintreffen in Zählstelle und Zählung bis 21. Mai
+* Verkündung 29. Mai
