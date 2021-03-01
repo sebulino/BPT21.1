@@ -56,18 +56,19 @@ Der Bundesparteitag mit Vorstandswahl findet als hybrider Parteitag statt.
   * TOP 05: Bericht der Vorstände
   * TOP 06: Bericht der Kassenprüfer
   * TOP 07: Frage, ob die Entlastung Teil der Briefwahl sein soll, oder direkt abgestimmt wird, entsprechend Abstimmung zur Entlastung oder nicht
-  * TOP 08: Vorstellung der Kandidaten
-  * TOP 08.1: Vorstellung der Kandidaten zum/r 1. Vorsitzenden
-  * TOP 08.2: Vorstellung der Kandidaten zum/r stellv. Vorsitzenden
-  * TOP 08.3: Vorstellung der Kandidaten zum/r politischen Geschäftsführer/in
-  * TOP 08.4: Vorstellung der Kandidaten zum/r stellv. politischen Geschäftsführer/in
-  * TOP 08.5: Vorstellung der Kandidaten zum/r Schatzmeister/in
-  * TOP 08.6: Vorstellung der Kandidaten zum/r stellv. Schatzmeister/in
-  * TOP 08.7: Vorstellung der Kandidaten zum/r Generalsekretär/in
-  * TOP 08.8: Vorstellung der Kandidaten zum/r stellv. Generalsekretär/in
-  * TOP 09: Eröffnung der Wahl
-  * TOP 10: Satzungsänderungsanträge oder Programmanträge
-  * TOP 11: Vertagung der Veranstaltung
+  * TOP 08: Satzungsänderungsanträge, welche die Wahl oder die Zusammensetzung des Vorstands betreffen
+  * TOP 09: Vorstellung der Kandidierenden
+  * TOP 09.1: Vorstellung der Kandidierenden zum/r 1. Vorsitzenden
+  * TOP 09.2: Vorstellung der Kandidierenden zum/r stellv. Vorsitzenden
+  * TOP 09.3: Vorstellung der Kandidierenden zum/r politischen Geschäftsführer/in
+  * TOP 09.4: Vorstellung der Kandidierenden zum/r stellv. politischen Geschäftsführer/in
+  * TOP 09.5: Vorstellung der Kandidierenden zum/r Schatzmeister/in
+  * TOP 09.6: Vorstellung der Kandidierenden zum/r stellv. Schatzmeister/in
+  * TOP 09.7: Vorstellung der Kandidierenden zum/r Generalsekretär/in
+  * TOP 09.8: Vorstellung der Kandidierenden zum/r stellv. Generalsekretär/in
+  * TOP 10: Eröffnung der Wahl
+  * TOP 11: Satzungsänderungsanträge oder Programmanträge
+  * TOP 12: Vertagung der Veranstaltung
 
 
 ### wichtige Hinweise
